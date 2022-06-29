@@ -9,7 +9,7 @@ import avatar from './images/image-avatar.png'
 
 
 
-function App() {
+export default function App() {
   return (
     <div>
       <Card 
@@ -29,4 +29,3 @@ function App() {
   );
 }
 
-export default App;
